@@ -1,0 +1,11 @@
+{
+    "log_channel": null,
+    "auto_giveaway": {
+        "enabled": false,
+        "interval_hours": 24,
+        "channel_id": null,
+        "time": "1h",
+        "winners": 1,
+        "prize": "Free Reward"
+    }
+}
